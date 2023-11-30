@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793439522924",
+    "project_id": "najot-ilmda",
+    "storage_bucket": "najot-ilmda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793439522924:android:d3a0870ce5c74dc2cc4849",
+        "android_client_info": {
+          "package_name": "com.wonapplications.najotilmda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlhc4PoDCbk_oJ4x4BNe9g5fVGvvi28ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
