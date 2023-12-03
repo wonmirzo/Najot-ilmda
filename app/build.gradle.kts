@@ -52,5 +52,5 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
     // Firebase
-
+    implementation(platform("com.google.firebase:firebase-bom:32.6.0"))
 }
